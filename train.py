@@ -21,7 +21,6 @@ hello my name ghusaa
 my cgpa 
 
 
-randiIJNN
-nnnn
 
+nnnn
 
