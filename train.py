@@ -22,6 +22,6 @@ my cgpa
 
 
 randiIJNN
-nnn
+nnnn
 
 
