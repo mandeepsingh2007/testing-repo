@@ -35,6 +35,7 @@ def load_and_validate_csv(file_path):
 
     return df
 
+
 def train_model(df):
     # Separate features and target
     X = df.drop('target', axis=1)
@@ -64,3 +65,4 @@ if __name__ == "__main__":
     csv_file = sys.argv[1]
     df = load_and_validate_csv(csv_file)
     model = train_model(df)
+
